@@ -1,4 +1,4 @@
-DotNetOpenAuth OAuth2 Client for Facebook
+DotNetOpenAuth OAuth2 Client for Facebook  [![NuGet Version](https://img.shields.io/nuget/v/DotNetOpenAuth.FacebookOAuth2.svg?style=flat)](https://www.nuget.org/packages/DotNetOpenAuth.FacebookOAuth2/) 
 ======================================
 
 This is a slightly improved implementation over the default Facebook client that ships with DNOA as used in MVC4 (VS2012).
